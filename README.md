@@ -24,6 +24,8 @@ Work in progress. Updates comming soon.
 ## Conferences 
 
 ### Oral presentation:
+- PEPI-IBIS days - special edition on AI in genome annotation. Sophia-Antipolis, France (11/2022).<br>_"NERD (Nematode EffectoR Discovery)
+a tool to predict proteins involved in nematodes' plant parasitism!.”_.
 - SophIA-Summit. Sophia-Antipolis, France (11/2022).<br>_"NERD (Nematode EffectoR Discovery)
 a tool to predict proteins involved in nematodes' plant parasitism!.”_.
 - NiceSeq - special edition on Genome evolution without sex. Nice, France (12/2020).<br>_"Transposable elements contribute to genome plasticity in asexually-reproducing plant pests”_.
